@@ -444,6 +444,18 @@
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/438191162080231424/1236883100638642266/CoN56fn.png?ex=66993567&is=6697e3e7&hm=3ce1161b261e488f6c0cfacdf8d84ddb8f7468a2dd4c457cc8fa6b98cda7920a&"
+	"shading": "50%",
+	"position": "top center",
+        "size": "50%",
+        "repeat": "no-repeat",
+        "attachment": "fixed",
+        "brightnes": "100%",
+        "contrast": "100%",
+        "saturation": "100%",
+        "grayscale": "0%",
+        "invert": "0%",
+        "blur": "0px",
+        "overlay": "rgb(0,0,0,0.6)"
     },
     "plus": {
         "version": 0,
